@@ -5,7 +5,7 @@ some of my favourites are: Linux, C++, µC, embedded systems, DevOps, 3D printin
 more on me on [my website](https://baszerr.eu).
 
 on CyberSec side of force, note that:
-* each commit from me is signed (GH verified - since ~2017)
-* each e-mail from my will be PGP-signed with [my key](https://baszerr.eu/misc/pgp.txt)
+* my every commit is signed (GH verified - since ~2017)
+* my every e-mail will be PGP-signed with [my key](https://baszerr.eu/misc/pgp.txt)
 
-if that's not the case, assume it did not originate from me.
+if that's not the case, assume change/message did not originate from real me.
