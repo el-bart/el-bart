@@ -2,7 +2,7 @@
 
 i'm BaSz and i'm a nerd.
 some of my favourites are: Linux, C++, µC, embedded systems, DevOps, 3D printing, distributed systems, networks.
-more on me on my website: [baszerr.eu](https://baszerr.eu).
+more on me on [my website](https://baszerr.eu).
 
 on CyberSec side of force, note that:
 * each commit from me is signed (GH verified - since ~2017)
